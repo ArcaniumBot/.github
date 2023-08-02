@@ -1,6 +1,6 @@
 ﻿<img src="https://itzmattcdn.com/i/VgtMv9zI.png" alt="image">
 
-Viper Development is a group of developers around the world developing Discord Bots. Our current projects are EasterBot, ChristmasBot and DisTickets.
+Viper Development is a group of developers around the world developing Discord Bots. Our current projects are EasterBot, ChristmasBot and Tickety.
 
 <hr>
 
