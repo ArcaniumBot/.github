@@ -1,7 +1,5 @@
 <img src="https://i.imgur.com/pAemYH9.png" alt="image">
 
-Tickety is a simple and easy-to-use ticket system for your Discord server.
-
 <hr>
 
 <h2>Our Links</h2>
