@@ -1,4 +1,4 @@
-<img>https://i.imgur.com/pAemYH9.png</img>
+<img src="https://i.imgur.com/pAemYH9.png" alt="image">
 
 Tickety is a simple and easy-to-use ticket system for your Discord server.
 
