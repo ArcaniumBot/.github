@@ -1,15 +1,15 @@
 ﻿<img src="https://itzmattcdn.com/i/VgtMv9zI.png" alt="image">
 
-Viper Development is a group of developers around the world developing Discord Bots. Our current projects are EasterBot, ChristmasBot and Tickety.
+Tickety is a simple and easy-to-use ticket system for your Discord server.
 
 <hr>
 
 <h2>Our Links</h2>
 <ul>
-  <li><a href="https://viperdevelopment.xyz">Website</a> - Our Website</li>
+  <li><a href="https://ticketybot.xyz/">Website</a> - Our Website</li>
   <li><a href="https://discord.gg/zwkBAQhQ8b">Discord</a> - Our Discord Server</li>
-  <li><a href="https://twitter.com/ViperDevelop">Twitter</a> - Our Twitter Account</li>
-  <li><a href="https://viperdevelopment.instatus.com/">Status</a> - Our Status Page</li>
+  <li><a href="https://twitter.com/TicketyBot_">Twitter</a> - Our Twitter Account</li>
+  <li><a href="https://ticketybot.instatus.com//">Status</a> - Our Status Page</li>
 </ul>
 
 <hr>
